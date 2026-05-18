@@ -1,0 +1,21 @@
+title: 清风徐来
+description: Thinking across boundaries
+author: 清风徐来
+url: ""
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink: /:year/:month/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+plugins:
+  - jekyll-seo-tag
