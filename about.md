@@ -8,4 +8,4 @@ permalink: /about/
 
 不定期更新，不接受约稿。
 
-联系：[your-email@example.com](mailto:your-email@example.com)
+联系：[s990826972@163.com](mailto:s990826972@163.com)
